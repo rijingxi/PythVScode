@@ -13,3 +13,9 @@ plt.show()
 
 
 #some changes 
+
+#this is a new line
+
+print("This is  new!")
+
+print("Hi this new change")
